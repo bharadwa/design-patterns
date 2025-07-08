@@ -1,5 +1,5 @@
-code for handling different design patterns
-…or push an existing repository from the command line
-git remote add origin https://github.com/bharadwa/design-patterns.git
-git branch -M main
-git push -u origin main
+code for handling different design patterns <br>
+
+git remote add origin https://github.com/bharadwa/design-patterns.git <br>
+git branch -M main <br>
+git push -u origin main <br>
