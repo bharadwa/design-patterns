@@ -26,7 +26,7 @@ public class LoggerServiceImpl implements Logger {
         return instance;
     }
 
-    @Override
+   /* @Override
     public void log(LogLevel level, String message) {
         if (printWriter == null) {
             throw new IllegalStateException("Log file is not set. Please set the log file before logging.");
@@ -37,7 +37,7 @@ public class LoggerServiceImpl implements Logger {
         } catch (IOException e) {
             throw new RuntimeException("Failed to write to log file: " + logFilePath, e);
         }
-    }
+    }*/
 
     @Override
     public void setLogFile(String filePath) {

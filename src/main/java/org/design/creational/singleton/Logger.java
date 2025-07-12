@@ -1,7 +1,7 @@
 package org.design.creational.singleton;
 
 public interface Logger {
-    void log(LogLevel level, String message);
+    //void log(LogLevel level, String message);
 
     void setLogFile(String filePath);
 
