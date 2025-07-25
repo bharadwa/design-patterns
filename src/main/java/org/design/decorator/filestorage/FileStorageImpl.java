@@ -5,7 +5,6 @@ public class FileStorageImpl implements  FileStorage {
 
     @Override
     public void storeFile(String fileName, byte[] data) {
-
          System.out.println("Storing file: " + fileName);
          // Here you would implement the logic to store the file data
             // For example, writing to a file system or a database
