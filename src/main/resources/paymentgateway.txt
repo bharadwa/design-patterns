@@ -1,3 +1,7 @@
 https://razorpay.com/docs/api/payments/payment-links/create-standard/
 https://dashboard.stripe.com/test/dashboard
 https://docs.stripe.com/payment-links/api -- create payment links from stripe api
+https://mahfuzcse12.medium.com/sending-spring-boot-application-logs-to-aws-cloudwatch-49f5a018b983
+
+# Payment Gateway Integration Notes
+https://prometheus.io/docs/prometheus/latest/installation/
